@@ -37,7 +37,7 @@ mi-extension/
 # 🧪 Cómo probar la extensión
 Clona este repositorio o descarga el ZIP:
 
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/SamCastroMX/chrome-extension
 Abre Google Chrome y ve a:
 👉 chrome://extensions
 
@@ -50,7 +50,7 @@ Verás el ícono de la extensión aparecer en tu barra de herramientas. ¡Haz cl
 # 📺 Video del tutorial
 Sigue el paso a paso completo en el canal de YouTube:
 
-🔗 Ver en YouTube → https://www.youtube.com/watch?v=TU-VIDEO-ID
+🔗 Ver en YouTube → https://www.youtube.com/watch?v=-cuPGh0VLVY&t=1s
 (Sustituye con el enlace real)
 
 Suscríbete a DevCodeMX para más contenido como este 🙌
