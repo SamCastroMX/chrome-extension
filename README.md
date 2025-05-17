@@ -51,7 +51,7 @@ Verás el ícono de la extensión aparecer en tu barra de herramientas. ¡Haz cl
 Sigue el paso a paso completo en el canal de YouTube:
 
 🔗 Ver en YouTube → https://www.youtube.com/watch?v=-cuPGh0VLVY&t=1s
-(Sustituye con el enlace real)
+
 
 Suscríbete a DevCodeMX para más contenido como este 🙌
 
