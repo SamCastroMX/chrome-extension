@@ -26,14 +26,14 @@ JavaScript
 Manifest V3 (Chrome Extensions)
 
 # 📁 Estructura del proyecto
-
+```
 mi-extension/
 ├── manifest.json       # Configuración principal de la extensión
 ├── popup.html          # Interfaz del popup
 ├── popup.js            # Lógica del contador
 ├── styles.css          # Estilos del popup
 └── icon.png            # Ícono de la extensión
-
+```
 # 🧪 Cómo probar la extensión
 Clona este repositorio o descarga el ZIP:
 
