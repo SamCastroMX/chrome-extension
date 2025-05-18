@@ -1,6 +1,6 @@
 # 🧩 Extensión de Chrome: Contador de Clicks
 
-Este proyecto es una extensión básica para Google Chrome creada durante el tutorial de DevCodeMX:
+Este proyecto es una extensión básica para Google Chrome creada durante el tutorial de DevCodeNet:
 🎥 Cómo Crear una Extensión de Chrome desde Cero (HTML + JS)
 
 Ideal para quienes están empezando en el desarrollo de extensiones y quieren aprender la estructura fundamental con tecnologías web.
@@ -53,7 +53,7 @@ Sigue el paso a paso completo en el canal de YouTube:
 🔗 Ver en YouTube → https://www.youtube.com/watch?v=-cuPGh0VLVY&t=1s
 
 
-Suscríbete a DevCodeMX para más contenido como este 🙌
+Suscríbete a DevCodeNet para más contenido como este 🙌
 
 # 📄 Licencia
 Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente.
